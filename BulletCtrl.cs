@@ -15,7 +15,7 @@ public class BulletCtrl : MonoBehaviour
     public GameObject ExploPtcl;
 
     private float dist;
-
+    private float dist2;
     //포톤추가
     //폭탄을 발사한 플레이어의 ID 저장
     public int playerId = -1;
