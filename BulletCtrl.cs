@@ -23,7 +23,7 @@ public class BulletCtrl : MonoBehaviour
     void Start()
     {
         //충돌 안해도 시간체크후 삭제
-        //Destroy(gameObject, 5.0f);
+        Destroy(gameObject, 5.0f);
     }
 
     // Update is called once per frame
